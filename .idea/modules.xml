@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/catchTheSpiderman.iml" filepath="$PROJECT_DIR$/.idea/modules/catchTheSpiderman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/catchTheSpiderman.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/catchTheSpiderman.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/catchTheSpiderman.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/catchTheSpiderman.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/catchTheSpiderman.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/catchTheSpiderman.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/catchTheSpiderman.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/catchTheSpiderman.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
